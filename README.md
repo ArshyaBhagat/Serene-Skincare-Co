@@ -2,7 +2,7 @@
 
 ## Skincare & Beauty Frontend Website
 
-Serene Skin Co is a responsive frontend skincare website developed using HTML, CSS, JavaScript, and XML.
+Serene Skin Co is a responsive frontend skincare website developed using HTML, CSS and JavaScript.
 
 The project focuses on skincare awareness, beauty routines, common skin concerns, and product presentation through a modern and visually engaging interface.
 
@@ -26,7 +26,6 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 - HTML
 - CSS
 - JavaScript
-- XML
 - Google Fonts
 
 ---
