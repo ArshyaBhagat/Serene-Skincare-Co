@@ -14,8 +14,9 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 * Multiple skincare and beauty informational pages
 * Interactive navigation menu
 * Smooth user interface interactions
-* Sticky header and dynamic scrolling effects
-* Scroll-based content reveal animations
+* Sticky header behavior
+* Dynamic scrolling effects
+* Scroll-based content reveal effects
 * Beauty and skincare themed layout
 * Asset-based media integration
 * Custom styling with CSS
@@ -46,9 +47,13 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 Serene-Skin-Co/
 │
 ├── assets/
+│
 ├── SERENE Skincare CO_files/
 │
 ├── homepg.html                 # Main website page
+├── index.html
+├── SERENE Skincare CO.html
+│
 ├── About Us.html
 ├── ContactSec.html
 ├── ourstory.html
@@ -58,7 +63,7 @@ Serene-Skin-Co/
 ├── acne.html
 ├── darkspots.html
 ├── darkcircles.html
-├── glowingskin.html
+├── gloingskin.html
 ├── suntanned.html
 ├── sunburnpatches.html
 ├── commonissue.html
@@ -67,12 +72,22 @@ Serene-Skin-Co/
 ├── skincareroutine.html
 ├── winter.html
 ├── whatmoretodo.html
+├── precautions.html
 │
-├── SERENE Skincare CO.html
-├── index.html
-├── README.md
+├── discoveryreveal.html
+├── fromoursty.html
+├── seewhat.html
+├── sumro.html
+├── autm.html
+├── autum1.html
+├── skiisue.html
+├── skinagain.html
 │
-└── Additional skincare information pages
+├── csstp.css
+├── s22.css
+├── favicon.svg
+│
+└── README.md
 ```
 
 ---
@@ -83,6 +98,7 @@ Serene-Skin-Co/
 
 ```bash
 git clone https://github.com/ArshyaBhagat/Serene-Skin-Co.git
+
 cd Serene-Skin-Co
 ```
 
