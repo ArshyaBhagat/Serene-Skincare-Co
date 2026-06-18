@@ -1,8 +1,8 @@
-# Serene Skin Co 🌸
+# Serene Skincare Co 🌸
 
 ## Skincare & Beauty Website
 
-Serene Skin Co is a responsive skincare and beauty website developed using HTML, CSS, and JavaScript.
+Serene Skincare Co is a responsive skincare and beauty website developed using HTML, CSS, and JavaScript.
 
 The project focuses on skincare awareness, beauty routines, common skin concerns, skincare recommendations, and educational content through a modern and visually engaging user interface. It was developed as an academic frontend project emphasizing responsive web design, usability, and interactive user experiences.
 
@@ -17,7 +17,7 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 * Sticky header behavior
 * Dynamic scrolling effects
 * Scroll-based content reveal effects
-* Beauty and skincare themed layout
+* Beauty and skincare-themed layout
 * Asset-based media integration
 * Custom styling with CSS
 * JavaScript-based frontend interactions
@@ -44,7 +44,7 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 ## 📂 Project Structure
 
 ```plaintext
-Serene-Skin-Co/
+Serene-Skincare-Co/
 │
 ├── assets/
 │
@@ -65,7 +65,7 @@ Serene-Skin-Co/
 ├── darkcircles.html
 ├── gloingskin.html
 ├── suntanned.html
-├── sunburnpatches.html
+├── sumburnpatches.html
 ├── commonissue.html
 │
 ├── basicroutine.html
@@ -97,9 +97,9 @@ Serene-Skin-Co/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ArshyaBhagat/Serene-Skin-Co.git
+git clone https://github.com/ArshyaBhagat/Serene-Skincare-Co.git
 
-cd Serene-Skin-Co
+cd Serene-Skincare-Co
 ```
 
 ### Open the Website
